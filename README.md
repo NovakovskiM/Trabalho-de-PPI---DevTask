@@ -4,7 +4,7 @@ Avaliação Processual de PPI - DevTask
 
 ## Integrantes
 
-* Lucas Novokovic Medeiros
+* Lucas Novakovski Medeiros
 * Uanderson da Silva Ramos Junior
 * Pedro Henrique Machado Gomes
 * Daniel Rodrigues Cricco
